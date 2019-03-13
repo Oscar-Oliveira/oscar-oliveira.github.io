@@ -59,10 +59,10 @@ main > .intro {
 	color: #FFF;
 }
 
-main > .intro a:link {
+main > .intro a, .intro a:hover, .intro a:active, .intro a:visited  {
 	text-decoration: none;
 	color: #FFF;
-}
+  }
 
 main > .tagline {
 	font-size: 1.5rem;
