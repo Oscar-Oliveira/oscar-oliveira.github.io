@@ -59,7 +59,7 @@ main > .intro {
 	color: #FFF;
 }
 
-main > .intro a {
+main > .intro a:link {
 	text-decoration: none;
 	color: #FFF;
 }
