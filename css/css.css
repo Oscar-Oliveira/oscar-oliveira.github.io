@@ -96,3 +96,13 @@ main > .blog a {
 	text-decoration: none;
 	color: #FFF;
 }
+
+main > .blog a:visited  {
+	text-decoration: none;
+	color: #FFF;
+}
+
+main > .blog a:hover  {
+	text-decoration: none;
+	color: #FFF;
+}
