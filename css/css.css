@@ -84,8 +84,15 @@ main > .tagline {
 	padding: 10px;
 }
 
-.blog {
-	padding-left: 30px;
+main > .blog {
+	padding-top: 30px;
+	font-size: 1.5rem;
 	font-family: 'Shadows Into Light', cursive;
 	text-decoration: none;
+	color: #FFF;
+}
+
+main > .blog a {
+	text-decoration: none;
+	color: #FFF;
 }
